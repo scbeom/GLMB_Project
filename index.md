@@ -2,23 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+This is a project page for a research on Generalized Labeled Multi-Bernoulli (GLMB) tracker.
 
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## [Beijing all](./another-page.html)
 
-> This is a blockquote following a header.
+> [Beijing sample 0](./another-page.html)
+> [Beijing sample 1](./another-page.html)
+> [Beijing sample 2](./another-page.html)
+> [Beijing sample 3](./another-page.html)
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
