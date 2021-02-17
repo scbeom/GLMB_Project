@@ -2,8 +2,6 @@
 layout: default
 ---
 
-This is a project page for a research on Generalized Labeled Multi-Bernoulli (GLMB) tracker.
-
 ## 1. Ground Truths for Performance Evaluation
 
 Real data sets (from [Porto](./another-page.html) and [Beijing](./another-page.html))
