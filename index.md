@@ -33,7 +33,7 @@ Real data sets (from <a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-serv
 > [Beijing sample 3](./output/b_truth_3.html)
 >
 
-
+---
 ```
 Please contact Changbeom Shim!
 ```
