@@ -9,7 +9,7 @@ Real data sets (from <a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-serv
 ### 1-1. Map-matching based data sets (samples)
 #### Porto in Potugal
 
-> [Porto all](./output/p_trend_all.html)
+> [Porto Trend](./output/p_trend_all.html)
 > 
 > [Porto sample 0](./output/p_truth_0.html)
 > 
@@ -22,7 +22,7 @@ Real data sets (from <a href='https://www.kaggle.com/c/pkdd-15-predict-taxi-serv
 
 #### Beijing in China
 
-> [Beijing all](./output/b_trend_all.html)
+> [Beijing Trend](./output/b_trend_all.html)
 >
 > [Beijing sample 0](./output/b_truth_0.html)
 > 
